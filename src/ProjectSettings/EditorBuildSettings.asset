@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: bf3877868afa71549b082395857e65bb
+  - enabled: 1
+    path: Assets/Scenes/First Level.unity
+    guid: 1971f3674c7d74540a28763cf83e9972
+  - enabled: 1
+    path: Assets/Scenes/Second Level.unity
+    guid: 1f59368bd5181bd4190b29f853473774
+  - enabled: 1
+    path: Assets/Scenes/Selector.unity
+    guid: 864e49cc78f448a4caa12b4a1091f5b4
+  - enabled: 1
+    path: Assets/Scenes/Control.unity
+    guid: de62517458a71f54f95a4351167efdcb
+  - enabled: 1
+    path: Assets/Scenes/GameOver_Death.unity
+    guid: c1b0b738d5c70c647abfb77b3823a37e
+  - enabled: 1
+    path: Assets/Scenes/Third Level.unity
+    guid: b0078c7ae9ed45a4cb02771fd3806ff0
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: b2cfd7743bea69146b8210cfaf7f9e72
+  - enabled: 1
+    path: Assets/Scenes/PPC.unity
+    guid: 0108f76dee2247c4898c132a393197b5
+  - enabled: 1
+    path: Assets/Scenes/Card1.unity
+    guid: 4db0d8a0cc94137429cc7b0e8126783b
+  - enabled: 1
+    path: Assets/Scenes/Card2.unity
+    guid: 87bb9fc884abf464cb88515207e36fba
+  - enabled: 1
+    path: Assets/Scenes/Card3.unity
+    guid: f3c9529f85582394ca32df8c7067222d
+  m_configObjects: {}
