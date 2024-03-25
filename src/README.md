@@ -8,10 +8,6 @@
 
 https://github.com/SashaYan10/Practice
 
-### Посилання на саму гру
-
-https://im-apostle.itch.io/digital-agon-test
-
 **Розробники**:
 
 - [x] *Яценко*
